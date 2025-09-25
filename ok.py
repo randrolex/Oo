@@ -5,7 +5,7 @@ import time
 import random
 import string
 
-TELEGRAM_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TELEGRAM_TOKEN = '8469913659:AAH3Zozfl7b43BfLMeml32CyG-_DzAKuJYo'
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
 user_data = {}
 
